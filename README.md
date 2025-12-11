@@ -5,6 +5,7 @@
 
 사용자는 다양한 카테고리의 반려 동물 용품에 대한 쇼핑몰 기능과 후기/댓글 등록, 회원 관리(관리자) 등의 기능을 이용할 수 있습니다.
 <br>
+<br>
 **📅프로젝트 기간** : 2025.06 - 2025.07 
 <br>
 <br>
@@ -109,7 +110,7 @@
   <br><br><br>
   <img width="170.4" height="188" alt="image" src="https://github.com/user-attachments/assets/2282947d-87b8-4496-9aab-7429bf9e15b3" />
   <br>
-https://github.com/arichoddol/teamProject1/tree/main
+
  - 상품 상세 페이지로 이동하지 않아도 목록에서 바로 장바구니 추가 가능
 </details>
 <br>
